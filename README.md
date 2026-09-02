@@ -1,9 +1,9 @@
 🚀 E-Commerce Sales Dashboard (Power BI)
-📌 Project Overview
+📌 Project Overview:
 
 This project presents an interactive E-Commerce Sales Dashboard built using Power BI to analyze business performance and generate actionable insights.
 
-🎯 Problem Statement
+🎯 Problem Statement:
 
 The goal of this project is to analyze e-commerce sales data to identify:
 
@@ -17,9 +17,9 @@ Operational issues like late deliveries
 
 This helps businesses make data-driven decisions to improve performance.
 
-📸 Dashboard Preview Section
+📸 Dashboard Preview Section:
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview:
 
 ### 🔹 Overview Dashboard
 ![Overview Dashboard](dashboard1.png)
@@ -27,12 +27,12 @@ This helps businesses make data-driven decisions to improve performance.
 ### 🔹 Detailed Analysis
 ![Detailed Analysis](dashboard2.png)
 
-🧩 Data Model Section
+🧩 Data Model Section:
 ## 🧩 Data Model
 ![Data Model](model.png)
 
-##📊 Dashboard Features
-🔹 KPIs
+##📊 Dashboard Features:
+🔹 KPIs:
 Total Revenue
 
 Total Customers
@@ -43,7 +43,7 @@ Late Delivery %
 
 Avg Spend per Order
 
-🔹 Visualizations
+🔹 Visualizations:
 
 📈 Sales Trend
 
@@ -59,14 +59,14 @@ Avg Spend per Order
 
 🧾 Top Customers
 
-📐 DAX Measures
+📐 DAX Measures:
 Total Revenue = SUM(payments[payment_value])
 
 Total Orders = COUNT(orders[order_id])
 
 Avg Spend per Order = DIVIDE([Total Revenue], [Total Orders])
 
-🎯 Key Insights
+🎯 Key Insights:
 
 📉 Revenue dropped sharply in September (~60%)
 
@@ -78,7 +78,7 @@ Avg Spend per Order = DIVIDE([Total Revenue], [Total Orders])
 
 🚚 Late delivery rate is ~7–8%
 
-▶️ How to Use
+▶️ How to Use:
 
 Download the PBIX file from the link below
 
@@ -88,19 +88,19 @@ Load dataset
 
 Use slicers (State, Month) to explore
 
-📁 Power BI File
+📁 Power BI File:
 
 👉 Download here:
 
 https://drive.google.com/file/d/1fgH9m6ivviccf-SEKQTtZloLJ6jWWkOn/view?usp=sharing
 
-📁 Dataset
+📁 Dataset:
 
 👉 Download here:
 
 https://drive.google.com/drive/folders/1W_fzYjnDQphW8Z-X-AnXx6ThE1ocrtg1?usp=sharing
 
-📂 Project Structure
+📂 Project Structure:
 
 📁 E-Commerce-Dashboard
 
@@ -117,7 +117,7 @@ https://drive.google.com/drive/folders/1W_fzYjnDQphW8Z-X-AnXx6ThE1ocrtg1?usp=sha
 │── README.md
 
 
-🚀 Future Improvements
+🚀 Future Improvements:
 
 Add profit & cost analysis
 
