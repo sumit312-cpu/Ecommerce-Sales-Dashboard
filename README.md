@@ -18,14 +18,14 @@ This helps businesses make data-driven decisions to improve performance.
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Overview Dashboard](images/dashboard1.png)
+![Overview Dashboard](dashboard1.png)
 
 ### 🔹 Detailed Analysis
-![Detailed Analysis](images/dashboard2.png)
+![Detailed Analysis](dashboard2.png)
 
 🧩 Data Model Section
 ## 🧩 Data Model
-![Data Model](images/model.png)
+![Data Model](model.png)
 
 📊 Dashboard Features
 🔹 KPIs
