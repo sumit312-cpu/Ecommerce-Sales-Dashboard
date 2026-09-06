@@ -1,153 +1,104 @@
-🚀 E-Commerce Sales Dashboard (Power BI + SQL)
-📌 Project Overview:
+<h1 align="center">📊 E-Commerce Sales Dashboard</h1>
+<h3 align="center">Power BI • SQL • Data Analytics</h3>
 
-This project presents an interactive E-Commerce Sales Dashboard built using Power BI to analyze business performance and generate actionable insights.
+<p align="center">
+  <a href="https://drive.google.com/file/d/1fgH9m6ivviccf-SEKQTtZloLJ6jWWkOn/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-Dashboard-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sumit312-cpu">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
+  </a>
+</p>
 
-🎯 Problem Statement:
+---
 
-The goal of this project is to analyze e-commerce sales data to identify:
+## 📌 Overview
+An interactive **Power BI dashboard** designed to analyze e-commerce sales performance and uncover actionable business insights.
 
-Revenue trends over time
+✔ Revenue tracking  
+✔ Customer behavior analysis  
+✔ Payment insights  
+✔ Delivery performance monitoring  
 
-Top-performing cities and customers
+---
 
-Customer payment behavior
+## 🖼️ Dashboard Preview
 
-Operational issues like late deliveries
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumit312-cpu/Ecommerce-Sales-Dashboard/main/dashboard1.png" width="85%" />
+</p>
 
-This helps businesses make data-driven decisions to improve performance.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumit312-cpu/Ecommerce-Sales-Dashboard/main/dashboard2.png" width="85%" />
+</p>
 
-📸 Dashboard Preview Section:
+---
 
-## 📸 Dashboard Preview:
-
-### 🔹 Overview Dashboard
-![Overview Dashboard](dashboard1.png)
-
-### 🔹 Detailed Analysis
-![Detailed Analysis](dashboard2.png)
-
-🧩 Data Model Section:
 ## 🧩 Data Model
-![Data Model](model.png)
 
-##📊 Dashboard Features:
-🔹 KPIs:
-Total Revenue
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumit312-cpu/Ecommerce-Sales-Dashboard/main/model.png" width="70%" />
+</p>
 
-Total Customers
+---
 
-Total Orders
+## 📊 Key Highlights
 
-Late Delivery %
+<div align="center">
 
-Avg Spend per Order
+| Metric | Value |
+|------|------|
+| 💰 Total Revenue | 96.9K |
+| 🛒 Orders | 413 |
+| 👥 Customers | 401 |
+| 🚚 Late Delivery | 23% |
 
-🔹 Visualizations:
+</div>
 
-📈 Sales Trend
+---
 
-📊 Order Volume Trend
+## 📈 Insights
+- 📉 Significant revenue drop (~60%) in September  
+- 📍 São Paulo is the top revenue-generating city  
+- 💳 Credit cards dominate (~78%) transactions  
+- 📦 High successful delivery rate  
+- 🚚 Late deliveries around 7–8%  
 
-🏙️ Top Cities by Revenue
+---
 
-💳 Payment Method Distribution
+## ⚙️ Tech Stack
 
-📦 Order Status Distribution
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-🌍 Geographic Analysis
+---
 
-🧾 Top Customers
+## ▶️ How to Use
+```bash
+1. Download PBIX file
+2. Open in Power BI Desktop
+3. Load dataset
+4. Explore using filters
 
-📐 DAX Measures:
-Total Revenue = SUM(payments[payment_value])
-
-Total Orders = COUNT(orders[order_id])
-
-Avg Spend per Order = DIVIDE([Total Revenue], [Total Orders])
-
-🎯 Key Insights:
-
-📉 Revenue dropped sharply in September (~60%)
-
-📍 São Paulo contributes highest revenue
-
-💳 Credit cards dominate (~78% of transactions)
-
-📦 Most orders are successfully delivered
-
-🚚 Late delivery rate is ~7–8%
-
-▶️ How to Use:
-
-Download the PBIX file from the link below
-
-Open in Power BI Desktop
-
-Load dataset
-
-Use slicers (State, Month) to explore
-
-📁 Power BI File:
-
-👉 Download here:
+📁 Resources
+📊 Dashboard:
 
 https://drive.google.com/file/d/1fgH9m6ivviccf-SEKQTtZloLJ6jWWkOn/view?usp=sharing
-
-📁 Dataset:
-
-👉 Download here:
+📂 Dataset:
 
 https://drive.google.com/drive/folders/1W_fzYjnDQphW8Z-X-AnXx6ThE1ocrtg1?usp=sharing
-
-📂 Project Structure:
-
-📁 E-Commerce-Dashboard
-
-│── dashboard1.png
-
-│── dashboard2.png
-
-│── model.png
-
-│── ecommerce_analysis.sql
-
-│── insights.txt
-
-│── README.md
-
-
-🚀 Future Improvements:
-
-Add profit & cost analysis
-
-Customer segmentation (high/low value)
-
-Repeat customer analysis
-
-Sales forecasting (ML model)
-
-Deploy dashboard on Power BI Service
-
-👤 Author
+👨‍💻 Author
 
 Sumit Tiwari
+Aspiring Data Analyst
 
-Aspiring Data Analyst | SQL | Power BI
-
-📌 LinkedIn:https://www.linkedin.com/in/sumit-tiwari-7a7112381/
-
-📌 GitHub:https://github.com/sumit312-cpu/
+<p align="center"> <a href="https://www.linkedin.com/in/sumit-tiwari-7a7112381/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/sumit312-cpu"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
 
 ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
-
-
-
-
-
-
+If you found this project useful, consider giving it a ⭐
 
 
 
