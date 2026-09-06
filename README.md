@@ -69,8 +69,8 @@ An interactive **Power BI dashboard** designed to analyze e-commerce sales perfo
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -94,7 +94,14 @@ https://drive.google.com/drive/folders/1W_fzYjnDQphW8Z-X-AnXx6ThE1ocrtg1?usp=sha
 Sumit Tiwari
 Aspiring Data Analyst
 
-<p align="center"> <a href="https://www.linkedin.com/in/sumit-tiwari-7a7112381/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/sumit312-cpu"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-tiwari-7a7112381/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/sumit312-cpu">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ⭐ Support
 
