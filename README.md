@@ -99,13 +99,9 @@ Aspiring Data Analyst
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-tiwari-7a7112381/)
+- LinkedIn: https://in.linkedin.com/in/sumit-tiwari-7a7112381  
+- GitHub: https://github.com/sumit312-cpu  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sumit312-cpu)
-
----
-
-## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐
 ⭐ Support
