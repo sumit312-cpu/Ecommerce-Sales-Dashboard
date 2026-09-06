@@ -99,8 +99,8 @@ Aspiring Data Analyst
 
 ## 🔗 Connect with Me
 
-- LinkedIn: https://in.linkedin.com/in/sumit-tiwari-7a7112381  
-- GitHub: https://github.com/sumit312-cpu  
+[LinkedIn](https://in.linkedin.com/in/sumit-tiwari-7a7112381)  
+[GitHub](https://github.com/sumit312-cpu)
 
 
 If you found this project useful, consider giving it a ⭐
