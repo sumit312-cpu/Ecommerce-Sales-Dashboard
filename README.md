@@ -89,18 +89,28 @@ https://drive.google.com/file/d/1fgH9m6ivviccf-SEKQTtZloLJ6jWWkOn/view?usp=shari
 📂 Dataset:
 
 https://drive.google.com/drive/folders/1W_fzYjnDQphW8Z-X-AnXx6ThE1ocrtg1?usp=sharing
-👨‍💻 Author
 
-Sumit Tiwari
-Aspiring Data Analyst
+## 👨‍💻 Author
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Test-Working-green?style=for-the-badge" />
-</p>
+**Sumit Tiwari**  
+Aspiring Data Analyst  
 
-⭐ Support
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-tiwari-7a7112381/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sumit312-cpu)
+
+---
+
+## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐
+⭐ Support
+
+
 
 
 
